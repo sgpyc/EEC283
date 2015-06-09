@@ -1,0 +1,18 @@
+5
+cross G1 1 1 2 S D E
+not   G2 1 1 1 E K
+and   G3 1 2 1 B K M
+and   G4 1 2 1 C D N
+or    G5 1 3 1 A M N Z
+4
+A 1
+B 1
+C 1
+S 1
+D 1
+E 1
+K 1
+M 1
+N 1
+Z 1
+
